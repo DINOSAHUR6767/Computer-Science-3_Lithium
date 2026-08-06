@@ -1,7 +1,8 @@
 # Computer-Science-3_Lithium
 
 SELF-INTRODUCTION through 4Ps
-Pangalan:
-Palayaw:
-Paboritong libangan:
-Pangarap sa buhay:
+Pangalan:LEVY NIELLE CUBITA
+Palayaw:LEVY
+Paboritong libangan:none
+Pangarap sa buhay:to be rich
+
