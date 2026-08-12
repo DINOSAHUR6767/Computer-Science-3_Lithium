@@ -1,0 +1,63 @@
+COMPUTATIONAL THINKING EXERCISE: “SMART SCHOOL CANTEEN QUEUE”
+
+Section: Lithium
+Score: n/a
+C# / Name: #5 Levy Nielle Cubita
+Date:aug6-aug13
+
+STEP 1: IDENTIFY THE BIG PROBLEM
+
+Main Problem:
+
+The school canteen queue is too slow and crowded during lunch break because students take too long to choose their food, the cashier manually calculates the total and change, and there is no system for monitoring food inventory. This causes long waiting times, confusion, and difficulty in managing the canteen.
+
+
+STEP 2: IDENTIFY THREE TO FOUR SUB-PROBLEMS
+
+1. Students take too long to decide what food to order.
+
+2. The cashier manually calculates the total cost and change.
+
+3. The canteen has difficulty tracking food items that are running out.
+
+4. The queue becomes crowded and difficult to manage.
+
+
+STEP 3: DEFINE COMPUTATIONAL THINKING APPROACHES
+
+SUB-PROBLEM 1:
+Students take too long to decide what food to order.
+
+CT SKILL:
+Decomposition and Pattern Recognition
+
+EXAMPLE SOLUTION:
+Divide the menu into categories and clearly display the food names and prices so students can easily choose their orders before reaching the cashier.
+
+
+SUB-PROBLEM 2:
+The cashier manually calculates the total and change.
+
+CT SKILL:
+Algorithmic Thinking
+
+EXAMPLE SOLUTION:
+Create a step-by-step process that adds the prices of all selected items, calculates the total amount, accepts the payment, and automatically calculates the correct change.
+
+
+SUB-PROBLEM 3:
+The canteen has difficulty tracking food items that are running out.
+
+CT SKILL:
+Abstraction and Pattern Recognition
+
+EXAMPLE SOLUTION:
+Record important information such as the food name, price, and quantity available. The system automatically reduces the stock whenever an item is sold and gives a warning when the stock is low.
+
+SUB-PROBLEM 4:
+The queue becomes crowded and difficult to manage.
+CT SKILL:
+Decomposition and Algorithmic Thinking
+
+EXAMPLE SOLUTION:
+Create a queue system where each student receives a number and is served in order. The system can display or announce the next number to be served.
