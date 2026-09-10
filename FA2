@@ -59,5 +59,34 @@ The queue becomes crowded and difficult to manage.
 CT SKILL:
 Decomposition and Algorithmic Thinking
 
+
+
 EXAMPLE SOLUTION:
 Create a queue system where each student receives a number and is served in order. The system can display or announce the next number to be served.
+
+
+step4
+flow go
+START
+   ↓
+Display Menu
+   ↓
+Student Selects Food
+   ↓
+Calculate Total
+   ↓
+Display Total
+   ↓
+Enter Payment
+   ↓
+Is Payment Enough?
+  ↙          ↘
+NO            YES
+↓              ↓
+Show          Calculate
+"Insufficient" Change
+↓              ↓
+ END       Confirm Order
+                ↓
+               END
+
